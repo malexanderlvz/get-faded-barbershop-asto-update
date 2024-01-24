@@ -1,0 +1,57 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hours",
+  "info": {
+    "singularName": "hour",
+    "pluralName": "hours",
+    "displayName": "Hours"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "monday_start": {
+      "type": "time"
+    },
+    "monday_end": {
+      "type": "time"
+    },
+    "tuesday_start": {
+      "type": "time"
+    },
+    "tuesday_end": {
+      "type": "time"
+    },
+    "wednesday_start": {
+      "type": "time"
+    },
+    "wednesday_end": {
+      "type": "time"
+    },
+    "thursday_start": {
+      "type": "time"
+    },
+    "thusday_end": {
+      "type": "time"
+    },
+    "friday_start": {
+      "type": "time"
+    },
+    "friday_end": {
+      "type": "time"
+    },
+    "saturday_start": {
+      "type": "time"
+    },
+    "saturday_end": {
+      "type": "time"
+    },
+    "sunday_start": {
+      "type": "time"
+    },
+    "sunday_end": {
+      "type": "time"
+    }
+  }
+}
